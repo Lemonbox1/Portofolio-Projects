@@ -1,2 +1,5 @@
-# Portofolio-Projects
-A portfolio of front-end web development (HTML/CSS/JS) and Python automation scripts, demonstrating a strong foundation in UI/UX logic, data structuring, and software architecture for QA testing.
+# Leonardo Fordson - Technical Portfolio
+
+Hi, I'm Leonardo. I am a detail-oriented developer and data specialist with a strong background in front-end web architecture, workflow automation, and AI data evaluation. I specialize in building responsive user interfaces, writing efficient Python scripts to manage complex data structures, and ensuring software aligns perfectly with UI/UX design specifications. 
+
+This repository holds my core technical projects.
